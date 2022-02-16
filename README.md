@@ -1,6 +1,10 @@
 # Hare and Hounds
 
-This classic two-player strategy board game was popular in medieval northern Europe until the 19th century. It’s also known by many other names, such as the Soldier’s Game, the French Military Game, and The Devil Among Tailors [1].
+This classic two-player abstract strategy board game was popular in medieval northern Europe until the 19th century. In this game, a hare is trying to get past three dogs who are trying to surround it and trap it. The three dogs are represented by three pieces which normally start on one end of the board, and the hare is represented by one piece that usually starts in the middle of the board or is dropped on any vacant point in the beginning of the game.[1].  
+
+## Alternate Names  
+
+French Military Game, The Soldier's Game, Game of Dwarfs, The Devil Among Tailors, Haretavl (Denmark), Hare och Hund (Sweden), Trevolpa (Sweden), Volpalejden (Sweden).
 
 
 ## Rules Of The Game
