@@ -6,4 +6,4 @@
 - Develope Hare AI (Easy - Hard).    
 - Create a Data-Structure for the game with a custom approach for creating the Graph.
 - Implement a math strategy for the win.  
-- To master the winning patterns.  
+- AI will master the winning patterns.  
