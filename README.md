@@ -5,6 +5,9 @@ This classic two-player strategy board game was popular in medieval northern Eur
 
 # 1 Rules Of The Game
 
+(At start, the board is set up as shown below)  
+
+<img src="https://mathcommunities.org/wp-content/uploads/elementor/thumbs/Hare-and-the-Hounds-3-p7pxe0x8hl5bc4oy1vevrcrcb2z5rtew09idh3sf8q.png">  
 
 To begin play, you first have to pick a side: hare or hounds. 
 
@@ -17,9 +20,6 @@ Hare:
 Movement: Hares can move in any way they want – even backwards! However, the hare (ironically) can’t “hop” over the hounds. It must move from one space to another adjacent space just like the hounds.
 Goal: Escape the hounds and reach the leftmost space on the board. If the hare passes the leftmost hound on the board, it automatically wins since the hounds can’t move backward to trap it! [2].
 
-(At start, the board is set up as shown below)
-
-<img src="https://mathcommunities.org/wp-content/uploads/elementor/thumbs/Hare-and-the-Hounds-3-p7pxe0x8hl5bc4oy1vevrcrcb2z5rtew09idh3sf8q.png">
 
 
 
@@ -27,5 +27,6 @@ Goal: Escape the hounds and reach the leftmost space on the board. If the hare p
 
 
 
-[1] Elwyn Berlekamp, John Conway, R. K. Guy, Winning Ways for Your Mathematical Plays, Volume 3, 2018, 711 - 723.
+
+[1] Elwyn Berlekamp, John Conway, R. K. Guy, Winning Ways for Your Mathematical Plays, Volume 3, 2018, 711 - 723.  
 [2] Wilson, S. (Year) ‘Hare & Hounds’, mathcommunities. Available at:https://mathcommunities.org/hare-hounds/
